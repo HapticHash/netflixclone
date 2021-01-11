@@ -1,3 +1,12 @@
+.row {
+  color: white;
+  margin-left: 20px;
+}
+
+.row__title {
+  margin-top: 1em;
+}
+
 .row__posters {
   display: flex;
   overflow-y: hidden;
@@ -12,7 +21,7 @@
 .row__poster {
   object-fit: contain;
   width: 100%;
-  max-width: 200px;
+  max-width: 175px;
   margin-right: 10px;
   border-radius: 10px;
   transition: transform 450ms;
