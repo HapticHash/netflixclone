@@ -20,10 +20,9 @@ function Row({ title, fetchUrl }) {
   }, [fetchUrl]);
 
   const opts = {
-    height: "400",
+    height: "500",
     width: "100%",
     playerVars: {
-      //da
       autoplay: 1,
     },
   };
