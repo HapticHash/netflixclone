@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix clone](https://min.gitcdn.link/repo/HapticHash/netflixclone/master/assets/screenshot.png)
+![Netflix clone](https://rawcdn.githack.com/HapticHash/netflixclone/7b21c0f232453a112b29a93017ded59b3959e2fb/assets/screenshot.png)
 
 ### What is Netflix?
 
