@@ -79,4 +79,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Harshit K. Singh - [@haptichash](https://twitter.com/haptichash) - harshitks2203@gmail.com
 
-Project Link: [https://github.com/HapticHash/trackcorona](https://github.com/HapticHash/trackcorona)
+Project Link: [https://github.com/HapticHash/netflixclone](https://github.com/HapticHash/netflixclone)
