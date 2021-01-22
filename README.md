@@ -1,8 +1,8 @@
 # Netflix Clone
 
-![Netflix clone](https://min.gitcdn.link/repo/HapticHash/netflixclone/master/assets/screenshot.png)
-![Netflix clone](https://min.gitcdn.link/repo/HapticHash/netflixclone/master/assets/screen1.png)
-![Netflix clone](https://min.gitcdn.link/repo/HapticHash/netflixclone/master/assets/screen2.png)
+![Netflix clone](https://rawcdn.githack.com/HapticHash/netflixclone/1a01f84ce64ec142bdf28ed7f485446bd13a2912/assets/screen1.png)
+
+![Netflix clone](https://rawcdn.githack.com/HapticHash/netflixclone/1a01f84ce64ec142bdf28ed7f485446bd13a2912/assets/screen2.png)
 
 ### What is Netflix?
 
@@ -79,4 +79,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Harshit K. Singh - [@haptichash](https://twitter.com/haptichash) - harshitks2203@gmail.com
 
-Project Link: [https://github.com/HapticHash/trackcorona](https://github.com/HapticHash/trackcorona)
+Project Link: [https://github.com/HapticHash/netflixclone](https://github.com/HapticHash/netflixclone)
