@@ -1,82 +1,70 @@
-# Netflix Clone
+# Getting Started with Create React App
 
-![Netflix clone](https://rawcdn.githack.com/HapticHash/netflixclone/1a01f84ce64ec142bdf28ed7f485446bd13a2912/assets/screen1.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Netflix clone](https://rawcdn.githack.com/HapticHash/netflixclone/1a01f84ce64ec142bdf28ed7f485446bd13a2912/assets/screen2.png)
+## Available Scripts
 
-### What is Netflix?
+In the project directory, you can run:
 
-[Netflix](https://www.netflix.com/) is a subscription-based streaming service that allows the members to watch TV shows and movies without commercials on an internet-connected device.
+### `yarn start`
 
-### What is this Project?
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This project is a netflix clone. It provides the trailer of variety of content which is available on Netflix. It shows the curated collection of movies and TV series under the categories such as Netflix Originals, Trending now, Top rated, Action Movies, Horror Movies, Comedy Movies, Romance Movies and Documentaries.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### Built With
+### `yarn test`
 
-To built this project. I have used following technologies :
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- [React JS](https://reactjs.org/)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Movie Trailer](https://www.npmjs.com/package/movie-trailer)
-- [Youtube API](https://www.npmjs.com/package/youtube)
-- [Firebase](https://firebase.google.com/)
+### `yarn build`
 
-### Known Issues
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-As I have used "movie-trailer" npm package, it is a bit unstable. The accuracy of fetching trailer is low. So you might unable to see the trailer of few movies.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Getting Started
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Are you interested in setting up this project locally?
-To get a local copy up and running follow these simple steps.
+### `yarn eject`
 
-### Prerequisites
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-So the list things that you will need to use are :
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- [npm / node](https://nodejs.org/en/) [intall node js from the link or update your npm using this command]
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-```sh
-npm install npm@latest -g
-```
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Installation
+## Learn More
 
-1. Clone the repo
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```sh
-git clone https://github.com/HapticHash/netflixclone
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-2. Install NPM packages
+### Code Splitting
 
-```sh
-npm install
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-3. Run it locally
+### Analyzing the Bundle Size
 
-```sh
-npm start
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Contributing
+### Making a Progressive Web App
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### Advanced Configuration
 
-## License
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Distributed under the MIT License. See `LICENSE` for more information.
+### Deployment
 
-## Contact
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Harshit K. Singh - [@haptichash](https://twitter.com/haptichash) - harshitks2203@gmail.com
+### `yarn build` fails to minify
 
-Project Link: [https://github.com/HapticHash/netflixclone](https://github.com/HapticHash/netflixclone)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
